@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ShyPine8@gmail.com**
 
-<img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2022/11/Hubble-Pillars-of-Creation.jpg?resize=1500%2C1565&ssl=1" alt="Galaxy" width="500" height="600">
+<img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2022/11/Hubble-Pillars-of-Creation.jpg?resize=1500%2C1565&ssl=1" alt="Galaxy" width="500" height="600" class="center">
 
 
 <h3 align="left">Languages and Tools:</h3>
