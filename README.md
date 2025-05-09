@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nico</h1>
+<h1 align="center">Hi there👋, I'm Nico</h1>
 <h3 align="center">A passionate machine learning developer from San Jose.</h3>
+<h3 align="center">I am a Computer Science and Engineering student at Santa Clara University with a minor in Eleectrical Engineering.</h3>
 
-- 🔭 I’m currently working on **Prophecy: A prediction model for sports games.**
+- 🔭 I’m currently working on **Prophecy: A prediction based machine learning model for sports games.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nuhcho](https://github.com/Nuhcho)
 
-- 💬 Ask me about **Machine Learning Models**
+- 💬 Ask me about **Machine Learning Models. Let me know what your favorite types of models are. My personal favorites are Convolutional Neural Networks and Decision Trees**
 
 - 📫 How to reach me **ShyPine8@gmail.com**
 <br>
